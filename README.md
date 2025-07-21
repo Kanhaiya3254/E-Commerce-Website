@@ -1,1 +1,2 @@
-# E-Commerce-Website-
+I developed a user-friendly eCommerce website using HTML, CSS, and JavaScript. The website features a responsive layout and includes sections like Home, Trending Clothes (for men and women), Blogs, Customer Reviews, and a Contact Form.
+Users can explore trending t-shirts, view blog articles, and read customer reviews. The site also includes a login popup and interactive buttons using JavaScript for basic UI functionality (e.g., login alert, contact form submission, navigation highlighting). Product cards are designed with hover effects, star ratings, and an "Add to Cart" button for a real-world shopping experience.
